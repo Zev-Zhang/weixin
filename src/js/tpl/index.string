@@ -1,0 +1,145 @@
+<section>
+		<div class="swiper-container">
+			<div class="swiper-wrapper">
+				<div id="swiper222" class="swiper-slide slide-yellow">
+					
+				</div>
+				<div class="swiper-slide slide-green">
+				  <div class="flex flex6">
+				     <img src="img/title.png" class="ani img" swiper-animate-effect="rollIn" swiper-animate-duration="1s" swiper-animate-delay="0.5s"/>
+				  	</div> 
+				  	<div class="flex flex7">
+				     <img src="img/ma1.png" class="ani img" swiper-animate-effect="rotateInDownRight" swiper-animate-duration="1s" swiper-animate-delay="1.5s"/>
+				  	</div>
+				  	<div class="flex flex8">
+				     <img src="img/hua1.png" class="ani img" swiper-animate-effect="fadeIn" swiper-animate-duration="1.5s" swiper-animate-delay="2s"/>
+				  	</div>
+				  	<div class="flex flex9">
+				     <img src="img/song1.png" class="ani img" swiper-animate-effect="fadeInRight" swiper-animate-duration="1s" swiper-animate-delay="3s"/>
+				  	</div>
+				  	<div class="flex flex10">
+				     <img src="img/hua2.png" class="ani img" swiper-animate-effect="fadeIn" swiper-animate-duration="1.5s" swiper-animate-delay="4.5s"/>
+				  	</div>
+				  	<div class="flex flex11">
+				     <img src="img/hua3.png" class="ani img" swiper-animate-effect="fadeIn" swiper-animate-duration="1.5s" swiper-animate-delay="5s"/>
+				  	</div>
+				</div>
+				<div class="swiper-slide slide-pink">
+					<div class="flex flex-three flex-three1">
+				     <img src="img/sitext.png" class="ani img"   swiper-animate-effect="rotateIn" swiper-animate-duration="1s" swiper-animate-delay="0.5s" />
+				  	</div> 
+				  	<div class="flex flex-four  flex-four1">
+				     <img src="img/si5.png" class="ani img"   swiper-animate-effect="fadeIn" swiper-animate-duration="1.5s" swiper-animate-delay="1.5s" />
+				  	</div> 
+				  	<div class="flex flex-four  flex-four2">
+				     <img src="img/boy.png" class="ani img"   swiper-animate-effect="fadeInRight" swiper-animate-duration="1s" swiper-animate-delay="2.5s" />
+				  	</div> 
+				  	<div class="flex flex-four flex-four3">
+				     <img src="img/si2.png" class="ani img"   swiper-animate-effect="fadeIn"   swiper-animate-duration="1.5s" swiper-animate-delay="3s" />
+				  	</div> 
+				  	<div class="flex flex-four flex-four4">
+				     <img src="img/s4ma.png" class="ani img"   swiper-animate-effect="fadeInLeft"   swiper-animate-duration="1.5s" swiper-animate-delay="4s" />
+				  	</div> 
+				  	<div class="flex flex-four flex-four5">
+				     <img src="img/si3.png" class="ani img"   swiper-animate-effect="fadeIn"   swiper-animate-duration="1s" swiper-animate-delay="5s" />
+				  	</div> 
+				  	<div class="flex flex-four flex-four6">
+				     <img src="img/s6.png" class="ani img"   swiper-animate-effect="fadeIn"   swiper-animate-duration="1.5s" swiper-animate-delay="6s" />
+				  	</div> 
+				</div>
+				<div class="swiper-slide slide-yellow2">
+				   <div class="flex flex-three flex-three1">
+				     <img src="img/peiban.png" class="ani img"   swiper-animate-effect="fadeInDown" swiper-animate-duration="1s" swiper-animate-delay="0.5s" />
+				  	</div> 
+				  	<div class="flex flex-three flex-three2">
+				     <img src="img/time1.png" class="ani img"   swiper-animate-effect="fadeInRight" swiper-animate-duration="1s" swiper-animate-delay="1.5s" />
+				  	</div> 
+				  	<div class="flex flex-three flex-three3">
+				     <img src="img/sansui.png" class="ani img"   swiper-animate-effect="fadeIn" swiper-animate-duration="1.5s" swiper-animate-delay="3s" />
+				  	</div> 
+				  	<div class="flex flex-three flex-three4">
+				     <img src="img/daxue.png" class="ani img"   swiper-animate-effect="fadeInLeft" swiper-animate-duration="1.5s" swiper-animate-delay="4s" />
+				  	</div> 
+				  	<div class="flex flex-three flex-three5">
+				     <img src="img/ershi3.png" class="ani img"   swiper-animate-effect="fadeIn" swiper-animate-duration="1.5s" swiper-animate-delay="5s" />
+				  	</div> 
+				  	<div class="flex flex-three flex-three6">
+				     <img src="img/old.png" class="ani img"   swiper-animate-effect="fadeInRight" swiper-animate-duration="1.5s" swiper-animate-delay="6s" />
+				  	</div> 
+				  	<div class="flex flex-three flex-three7">
+				     <img src="img/sanshi5.png" class="ani img"   swiper-animate-effect="fadeIn" swiper-animate-duration="2s" swiper-animate-delay="7.5s" />
+				  	</div> 
+				</div>
+				
+				<div class="swiper-slide slide-red">
+					 <div class="flex flex-fif flex-fif1">
+				     <img src="img/s5tit.png" class="ani img" swiper-animate-effect="fadeInRight" swiper-animate-duration="1.5s" swiper-animate-delay="0.5s"   />
+				  	</div> 
+				  	<div class="flex flex-fif flex-fif2">
+				     <img src="img/s5son.png" class="ani img" swiper-animate-effect="fadeInLeft" swiper-animate-duration="1.5s" swiper-animate-delay="1.5s"   />
+				  	</div> 
+				  	<div class="flex flex-fif flex-fif3">
+				     <img src="img/s5.png" class="ani img" swiper-animate-effect="fadeIn" swiper-animate-duration="1s" swiper-animate-delay="2.5s"   />
+				  	</div> 
+				  	<div class="flex flex-fif flex-fif4">
+				     <img src="img/s5ma.png" class="ani img" swiper-animate-effect="fadeInLeftBig" swiper-animate-duration="1.5s" swiper-animate-delay="3s"   />
+				  	</div> 
+				  	<div class="flex flex-fif flex-fif5">
+				     <img src="img/s52.png" class="ani img" swiper-animate-effect="fadeIn" swiper-animate-duration="1.5s" swiper-animate-delay="4.5s"   />
+				  	</div> 
+				  	<div class="flex flex-fif flex-fif6">
+				     <img src="img/qian.png" class="ani img" swiper-animate-effect="fadeIn" swiper-animate-duration="1.5s" swiper-animate-delay="5.5s"   />
+				  	</div> 
+				</div>
+				<div class="swiper-slide slide-blue">
+					 <div class="flex flex-six flex-six1">
+				     <img src="img/six6tit.png" class="ani img"   swiper-animate-effect="zoomIn" swiper-animate-duration="1s" swiper-animate-delay="0.5s"   />
+				  	</div> 
+				  	<div class="flex flex-six flex-six2">
+				     <img src="img/song6.png" class="ani img"   swiper-animate-effect="zoomIn" swiper-animate-duration="1s" swiper-animate-delay="1.5s"   />
+				  	</div> 
+				  	<div class="flex flex-six flex-six3">
+				     <img src="img/sxidian.png" class="ani img"   swiper-animate-effect="zoomIn" swiper-animate-duration="0.5s" swiper-animate-delay="2.5s"   />
+				  	</div> 
+				  	<div class="flex flex-six flex-six4">
+				     <img src="img/sixdian2.png" class="ani img"   swiper-animate-effect="zoomIn" swiper-animate-duration="0.5s" swiper-animate-delay="3s"   />
+				  	</div> 
+				  	<div class="flex flex-six flex-six5">
+				     <img src="img/sixwenzi.png" class="ani img"   swiper-animate-effect="fadeIn" swiper-animate-duration="1s" swiper-animate-delay="3.5s"   />
+				  	</div> 
+				  	<div class="flex flex-six flex-six6">
+				     <img src="img/dengdai.png" class="ani img"   swiper-animate-effect="fadeIn" swiper-animate-duration="1s" swiper-animate-delay="4.5s"   />
+				  	</div> 
+				  	<div class="flex flex-six flex-six7">
+				     <img src="img/dengdaiwenzi.png" class="ani img"   swiper-animate-effect="fadeIn" swiper-animate-duration="1s" swiper-animate-delay="5.5s"   />
+				  	</div> 
+				</div>
+				<div class="swiper-slide slide-plur">
+					 <div class="flex flex-last1">
+				     <img src="img/denglong7.png" class="img"   />
+				  	</div> 
+				  	 <div class="flex flex-last2">
+				     <img src="img/guonian.png" class="ani img"   swiper-animate-effect="fadeInRight" swiper-animate-duration="1.5s" swiper-animate-delay="0.5s" />
+				  	</div> 
+				  	 <div class="flex flex-last3">
+				     <img src="img/huijia.png" class="ani img"   swiper-animate-effect="fadeInDown" swiper-animate-duration="1s" swiper-animate-delay="1.5s" />
+				  	</div> 
+				  	 <div class="flex flex-last4">
+				     <img src="img/jia_02.png" class="ani img"   swiper-animate-effect="rotateIn" swiper-animate-duration="1s" swiper-animate-delay="1.8s" />
+				  	</div> 
+				  	 <div class="flex flex-last5">
+				     <img src="img/quanjia.png" class="ani img"   swiper-animate-effect="fadeIn" swiper-animate-duration="3s" swiper-animate-delay="3s" />
+				  	</div> 
+				</div>
+				</div>
+			 
+			<div class="jiao"><img src="img/arrow-up.png" class="jiaotu" /></div>
+			<div class="song" id="song">
+			 <audio id="audio" src="music/电视原声-好大一个家(儿童版)(《咱家那些事》电视剧插曲).mp3"  autoplay="autoplay" ></audio>
+			<div class="musicbg" id="musicbg"><div class="music" id="music"></div></div>
+			</div>
+			<!-- 如果需要分页器 -->
+			<div class="swiper-pagination"></div>
+             
+		</div>
+    </section>

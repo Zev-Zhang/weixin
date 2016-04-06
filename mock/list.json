@@ -1,0 +1,43 @@
+{
+    "ver": "1.0",
+    "ret": true,
+    "errcode": 0,
+    "errmsg": "",
+    "data": [
+    	{
+    		"class": "flex flex1",
+    		"src": "img/wenzi.png",
+    		"effect": "fadeIn",
+    		"duration": "2s",
+    		"delay": "0.5s"
+    	},
+    	{
+    		"class": "flex flex2",
+    		"src": "img/wenzi2.png",
+    		"effect": "fadeIn",
+    		"duration": "0.8s",
+    		"delay": "1.5s"
+    	},
+    	{
+    		"class": "flex flex2 flex3",
+    		"src": "img/wenzi3.png",
+    		"effect": "fadeIn",
+    		"duration": "0.8s",
+    		"delay": "2s"
+    	},
+    	{
+    		"class": "flex flex2 flex4",
+    		"src": "img/wenzi4.png",
+    		"effect": "fadeIn",
+    		"duration": "0.8s",
+    		"delay": "2.5s"
+    	},
+    	{
+    		"class": "flex flex2 flex5",
+    		"src": "img/wenzi6.png",
+    		"effect": "fadeIn",
+    		"duration": "0.8s",
+    		"delay": "3s"
+    	}
+    ]
+}

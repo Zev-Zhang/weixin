@@ -1,0 +1,131 @@
+require("./swiper/swiper-3.3.1.min.css");
+require("./swiper/animate.min.css");
+
+/* CSS Document */
+/*全局样式*/
+body,ol,ul,h1,h2,h3,h4,h5,h6,p,th,td,dl,dd,form,fieldset,legend,input,textarea,select{margin:0;
+padding:0; } 
+html{ font-size: 16px;}
+a{ text-decoration:none; outline:none;  }
+img{ border:none; vertical-align:middle;}
+ul,li,ol{ list-style:none;}
+.left{ float:left;}
+.right{ float:right;}
+input{ outline: none;}
+/*内容区域*/
+html,body,section{ height: 100%;}
+.swiper-container,.swiper-wrapper{ width: 100%; height: 100%; position: relative; }
+.swiper-slide{ width:100%;height: 100%;    background-size: 100% 100%; position: relative;}
+.flex{width: 100%; height: auto;   display: inline-flex; justify-content: center; position: absolute; }
+.flex img{width:auto; max-width: 100%; height: auto; }
+.flex1{top: 14%; height: 29.8%;}
+.flex1 img{ max-width: 100%; height:100%;}
+.flex2{top: 40%;  right: 8%; height: 2%; }
+.flex2 img{ max-width:100%; height: 110%; }
+.flex3{top: 44%;  left: -6%;}
+.flex4{top: 48%;  left: -5%; }
+.flex5{top: 52%; left: 4%;}
+.slide-yellow{ background: url() no-repeat left top; background-size: 100% 100%}
+.flex video{ max-width: 90%;     top: 20%;}
+.jiao{ display: inline-flex; justify-content: center; position: absolute;width: 100%; height:6%; bottom: 2%; z-index: 999;  }
+.jiaotu{ max-width: 100%; height:110%;-webkit-animation: yidong 1s linear infinite;  -moz-animation: yidong 1s linear infinite;animation: yidong 1s linear infinite;  }
+@-webkit-keyframes yidong{
+	form{transform: translate(0,0);}
+	to{transform: translate(0,-20px); opacity: 0;}
+}
+@-moz-keyframes yidong{
+	form{transform: translate(0,0);}
+	to{transform: translate(0,-20px); opacity: 0;}
+}
+.song{ width: 8%; height: 5%;  position: absolute; top:3.5%; right:3%;z-index: 999;-webkit-animation: round 2s linear infinite; animation: round 2s linear infinite; }
+@-webkit-keyframes round{
+	form{transform: rotate(0deg)}
+	to{transform: rotate(360deg)}
+}
+ 
+.musicbg{  width:100%; height: 100%; background: url() no-repeat  left top; background-size: 100% 100%; }
+.music{width: 100%; height: 100%;z-index: 999; background: url() no-repeat center center;  }
+.slide-green{ background: #a9cb8e;}
+/*第二页*/
+.flex6{ top: 10%; height: 9.2%;}
+.flex6 img{ height: 100%;}
+.flex7{ top: 26%; right: 20%; height: 28.9%;}
+.flex7 .img{ height: 100%;}
+.flex8{ top: 31%; left: 17%;  height: 7%;}
+.flex8 .img{ height: 100%;}
+.flex9{ top: 43%; left: 18%;  height: 32.3%;}
+.flex9 .img{ height: 100%;}
+.flex10{ top: 64%;    right: 21%; height: 7%;}
+.flex10 .img{ height: 100%; }
+.flex11{ top:76%;    right: 11%; height: 5%;}
+.flex11 .img{ height: 100%; }
+/*第三页*/
+.slide-yellow2{ background: #b0afb4;}
+.flex-three img{ height: 100%;}
+.flex-three1{ top: 12%; height:9%;   }
+.flex-three2{top: 23%; height:28%; right: 15%; }
+.flex-three3{top:51%; height:4%; right: 15%; }
+.flex-three4{top:35%; height:31%; left: 20%; }
+.flex-three5{top:66%; height:4%; left: 20%; }
+.flex-three6{top:60%; height:25%; right: 7%;}
+.flex-three7{top:86%; height:4%;right: 7%; }
+/*第四页*/
+.slide-pink{ background: #f3b6a4;}
+.flex-four img{ height: 100%;}
+.flex-four1{top: 32.0%; height: 11.6%;right: 19%; }
+.flex-four2{top: 30%; height: 26%;  }
+.flex-four3{top: 28%; height: 5%; left: 20%;  }
+.flex-four4{top: 50%; height:27%; left: 20%; }
+.flex-four5{top: 65%; height:6%; right: 10%; }
+.flex-four6{top: 80%; height:6%;   }
+/*第五页*/
+.slide-red{ background: #d4b69a;}
+.flex-fif img{ height: 100%;}
+.flex-fif1{ top: 14%; height: 9%;  }
+.flex-fif2{ top:31%; height: 25%; left: 5%;  }
+.flex-fif3{top:29%; height: 5%; left: 5%;  }
+.flex-fif4{top:41%; height: 28%; right: 15%;  }
+.flex-fif5{top:66%; height: 5%;    }
+.flex-fif6{top:72%; height: 7%;  left:10%;   }
+/*第六页*/
+.slide-blue{ background: #97d1c2;}
+.flex-six img{ height: 100%;}
+.flex-six1{top: 14%; height:9%;  }
+.flex-six2{top:40%; height: 24.8%;  left: 20%; }
+.flex-six3{top:42%; height: 1%;  left: 33%; }
+.flex-six4{top:40%; height: 2%;  left: 34%; }
+.flex-six5{top:25%; height: 16.9%; left: 11%;   }
+.flex-six6{top:60%; height: 25.9%; right: 16%;   }
+.flex-six7{top:45%; height:14%; right: 16%;   }
+/*最后一页*/
+.slide-plur{ background: #cda769;}
+.flex-last1{top: 9.6%; height: 16.6%;right: 19%; }
+ 
+.flex-last1 .img{ height: 100%;   -webkit-transform-origin: top; transform-origin: top; 
+-webkit-animation:yao 3s linear infinite;
+-moz-animation:yao 3s linear infinite;
+ animation:yao 3s linear infinite; }
+@-webkit-keyframes yao{
+	0%{transform: rotate(0deg);}
+	25%{transform: rotate(-15deg);   }
+	50%{transform: rotate(0deg);  }
+	75%{transform: rotate(15deg);   }
+	50%{transform: rotate(0deg);  }
+}
+@-moz-keyframes yao{
+	0%{transform: rotate(0deg); }
+	25%{transform: rotate(-15deg); }
+	50%{transform: rotate(0deg); }
+	75%{transform: rotate(15deg); }
+	50%{transform: rotate(0deg); }
+}
+.flex-last2{top: 14%; height:11.0%; left: 15%; }
+.flex-last2 img{ height: 100%;}
+.flex-last3{top: 30%; height:5.0%;    }
+.flex-last3 img{ height: 100%;}
+.flex-last3{top: 30%; height:5.0%;    }
+.flex-last3 img{ height: 100%;}
+.flex-last4{top: 28%; height:8.0%; left: 1.5%;    }
+.flex-last4 img{ height: 100%;}
+.flex-last5{top: 40%; height:38.0%;     }
+.flex-last5 img{ height: 100%;}

@@ -1,0 +1,8 @@
+commonJS
+AMD(CMD)
+
+ECMAScript 3.1
+ECMAScript 5.1
+ECMAScript 6
+
+webpack
